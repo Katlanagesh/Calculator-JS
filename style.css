@@ -1,6 +1,5 @@
 body{
-    width: 800px;
-    height: 500px;
+    padding-top: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,6 +50,10 @@ button{
     color: whitesmoke;
 }
 .operator{
-    /* background-color: rgb(63, 211, 211); */
+    
     color: green;
+}
+h1{
+    text-align: center;
+    color: aqua;
 }
